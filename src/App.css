@@ -9,7 +9,12 @@ body {
   color: #343a40;
   line-height: 1;
 
+  display: flex;
   justify-content: center;
+  align-items: center;
+
+  min-width: 320px;
+  min-height: 100vh;
 }
 
 .accordion {
