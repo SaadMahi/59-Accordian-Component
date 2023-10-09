@@ -3,16 +3,16 @@ import "./App.css";
 
 const faqs = [
   {
-    title: "Where are these chairs assembled?",
-    text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusantium, quaerat temporibus quas dolore provident nisi ut aliquid ratione beatae sequi aspernatur veniam repellendus.",
+    title: "What is HTML?",
+    text: 'HTML is the 🌐 language of the web! It uses tags like <p> and <h1> to structure content on a webpage. 🏗️ These tags are enclosed in angle brackets, and elements can have attributes like "class" or "id" to add extra info. HTML makes websites 📄 look and feel the way they do in your web browser! 🚀',
   },
   {
-    title: "How long do I have to return my chair?",
-    text: "Pariatur recusandae dignissimos fuga voluptas unde optio nesciunt commodi beatae, explicabo natus.",
+    title: "What is CSS",
+    text: "CSS is like the 🎨 artist's palette for web design! It adds style and beauty to plain HTML 📄, letting you control colors, fonts, and layout. 🖌️ With CSS, your web pages can look as stunning as a work of art! 🌟",
   },
   {
-    title: "Do you ship to countries outside the EU?",
-    text: "Excepturi velit laborum, perspiciatis nemo perferendis reiciendis aliquam possimus dolor sed! Dolore laborum ducimus veritatis facere molestias!",
+    title: "What is JavaScript",
+    text: "JavaScript is like the 🎮 game-changer of web development! 🌐 It's a scripting language that brings your web pages to life with interactivity and dynamic features. With JS, you can make things move, respond to user actions, and create awesome web apps! 🚀✨",
   },
 ];
 
